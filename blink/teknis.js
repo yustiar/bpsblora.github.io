@@ -249,6 +249,14 @@ teknis_json = [
 			  	"tim": "f-ipds",
 			  	"isVPN": ""
 			},
+			{
+				"nama": "Hasil Landmark Satria",
+				"desc": "",
+				"ikon": "https://imgur.com/ei2oHJV.png",
+			  	"url": "https://docs.google.com/spreadsheets/d/1nob5GM87elBGqbVr8xBhSN1cdmcnVt1h/edit?gid=1538432115#gid=1538432115",
+			  	"tim": "f-ipds",
+			  	"isVPN": ""
+			},
 //////////////////
 //    6 SEKTORAL
 //////////////////	
